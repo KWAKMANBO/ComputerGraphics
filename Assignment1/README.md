@@ -17,4 +17,7 @@
 - Space Bar를 눌러보면 채워져 있던 이니셜들이 point, line으로 구성된 뼈대만 남은 이니셜로 바뀌게 됨
 ## 4. 구현 결과
 
-![a1.gif](..%2F..%2F..%2F..%2F..%2Fa1.gif)
+<p align="center">
+<img src = "![a1](https://github.com/KWAKMANBO/ComputerGraphics/assets/113917771/155b865a-c076-4f34-83bb-629859eaab8f)
+">
+</p>
