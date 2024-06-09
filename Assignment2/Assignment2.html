@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<title>Assignment2</title>
+
+<script id="vertex-shader" type="x-shader/x-vertex">
+attribute vec4 vPosition;
+
+uniform mat4 modelViewMatrix;
+uniform mat4 projection;
+
+void
+main()
+{
+    gl_PointSize = 5.0;
+
+    gl_Position = modelViewMatrix * vPosition;
+
+
+}
+</script>
+
+<script id="fragment-shader" type="x-shader/x-fragment">
+
+void
+main()
+{
+    gl_FragColor = vec4( 1.0, 0.0, 0.0, 1.0 );
+}
+</script>
+
+<script type="text/javascript" src="./Common/webgl-utils.js"></script>
+<script type="text/javascript" src="./Common/initShaders.js"></script>
+<script type="text/javascript" src="./Common/MV.js"></script>
+<script type="text/javascript" src="Assignment2.js"></script>
+
+
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <canvas id="gl-canvas" width="512" height="512">
+            Oops … your browser doesn't support the HTML5 canvas element.
+        </canvas>
+        
+    </div>
+<button id="Rotaion X">Rotation X</button>
+<button id = "Rotaion Y">Rotaion Y</button>
+<button id = "Rotaion Z">Rotaion Z</button>
+<button id = "Rotaion XYZ">Rotaion XYZ</button>
+<button id = "Translation">Translation</button>
+<button id = "Scale Down">Scale Down</button>
+<button id = "Scale Up">Scale Up</button>
+</body>
+</html>
