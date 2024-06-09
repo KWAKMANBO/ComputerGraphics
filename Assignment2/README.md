@@ -15,4 +15,4 @@
 
 ## 4. 결과 
 
-![a2.gif](..%2F..%2F..%2F..%2Fa2.gif)
+![a2](https://github.com/KWAKMANBO/ComputerGraphics/assets/113917771/d4628ac6-adc8-420d-9900-41f2e1033d34)

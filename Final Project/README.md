@@ -18,4 +18,4 @@
 
 
 ### 결과물
-![p1.gif](..%2F..%2F..%2F..%2Fp1.gif)
+![p1](https://github.com/KWAKMANBO/ComputerGraphics/assets/113917771/a8f680ce-e704-4529-aa1c-3cfc1bd1dee5)

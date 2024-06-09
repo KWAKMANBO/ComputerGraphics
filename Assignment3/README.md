@@ -11,4 +11,4 @@
 - 마우스를 통해 x축을 회전 시키는 버튼, y축을 회전 시키는 버튼, z축을 회전 시키는 버튼 -> light source를 변경하지 못했음, 마우스 이동에 따라 자연스러운 회전을 구현하지 못함(  버튼을 통해 각 x, y ,z축의 회전을 활성화 시키고 회전하는 방식으로 임의로 해결 했음)
 
 ## 3. 구현 결과
-![a3.gif](..%2F..%2F..%2F..%2Fa3.gif)
+![a3](https://github.com/KWAKMANBO/ComputerGraphics/assets/113917771/238e2aa2-67ba-4d1d-b437-194dea563ce5)
